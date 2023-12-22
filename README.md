@@ -4,12 +4,14 @@ Wade-Giles是一個漢語拼音與威托馬拼音的音譯轉換器，也是英�
 
 # Installation
 
-在使用本工具前請確保已安裝python 3以及pip工具
+在使用本工具前請確保已安裝python 3 或者 pip工具
 
-curl https://github.com/17moonup/Wade-Giles/releases/download/v1.0/wade-giles-1.0.tar.gz
-
-- pip install wade-giles-1.0.tar.gz 
-- wade-gile -h
+1. curl https://github.com/17moonup/Wade-Giles/releases/download/v1.0/wade-giles-1.0.tar.gz
+    - pip install wade-giles-1.0.tar.gz 
+    - wade-gile -h
+2. git clone [https://github.com/17moonup/Wade-Giles](https://github.com/17moonup/Wade-Giles)
+    - cd py_converter/wade-giles
+    - python3 pinyin_converter.py
 
 # Usage
 
